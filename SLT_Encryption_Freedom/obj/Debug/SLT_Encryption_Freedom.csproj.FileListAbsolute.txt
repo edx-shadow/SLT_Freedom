@@ -1,0 +1,10 @@
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\bin\Debug\SLT_Encryption_Freedom.exe.config
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\bin\Debug\SLT_Encryption_Freedom.exe
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\bin\Debug\SLT_Encryption_Freedom.pdb
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\obj\Debug\SLT_Encryption_Freedom.csprojAssemblyReference.cache
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\obj\Debug\SLT_Encryption_Freedom.frmPrincipal.resources
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\obj\Debug\SLT_Encryption_Freedom.Properties.Resources.resources
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\obj\Debug\SLT_Encryption_Freedom.csproj.GenerateResource.cache
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\obj\Debug\SLT_Encryption_Freedom.csproj.CoreCompileInputs.cache
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\obj\Debug\SLT_Encryption_Freedom.exe
+C:\Reverse\Tyapp\SLT_Encryption_Freedom\SLT_Encryption_Freedom\SLT_Encryption_Freedom\obj\Debug\SLT_Encryption_Freedom.pdb
